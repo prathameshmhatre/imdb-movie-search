@@ -1,0 +1,902 @@
+[
+  {
+    "title": "The Shawshank Redemption",
+    "year": "(1994)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "9.3",
+    "duration": "142 min",
+    "synopsis": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+    "genre": ["Drama"]
+  },
+  {
+    "title": "The Godfather",
+    "year": "(1972)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "9.2",
+    "duration": "175 min",
+    "synopsis": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "genre": ["Crime,", "Drama"]
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "(2008)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "9",
+    "duration": "152 min",
+    "synopsis": "When the menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+    "genre": ["Action,", "Crime,", "Drama"]
+  },
+  {
+    "title": "The Godfather: Part II",
+    "year": "(1974)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "9",
+    "duration": "202 min",
+    "synopsis": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "genre": ["Crime,", "Drama"]
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "(2003)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.9",
+    "duration": "201 min",
+    "synopsis": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "genre": ["Action,", "Adventure,", "Drama"]
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": "(1994)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.9",
+    "duration": "154 min",
+    "synopsis": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "genre": ["Crime,", "Drama"]
+  },
+  {
+    "title": "Schindler's List",
+    "year": "(1993)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.9",
+    "duration": "195 min",
+    "synopsis": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "genre": ["Biography,", "Drama,", "History"]
+  },
+  {
+    "title": "12 Angry Men",
+    "year": "(1957)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.9",
+    "duration": "96 min",
+    "synopsis": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+    "genre": ["Crime,", "Drama"]
+  },
+  {
+    "title": "Inception",
+    "year": "(2010)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.8",
+    "duration": "148 min",
+    "synopsis": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",
+    "genre": ["Action,", "Adventure,", "Sci-Fi"]
+  },
+  {
+    "title": "Fight Club",
+    "year": "(1999)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.8",
+    "duration": "139 min",
+    "synopsis": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+    "genre": ["Drama"]
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "(2001)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.8",
+    "duration": "178 min",
+    "synopsis": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "genre": ["Action,", "Adventure,", "Drama"]
+  },
+  {
+    "title": "Forrest Gump",
+    "year": "(1994)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.8",
+    "duration": "142 min",
+    "synopsis": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate and other historical events unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+    "genre": ["Drama,", "Romance"]
+  },
+  {
+    "title": "Il buono, il brutto, il cattivo",
+    "year": "(1966)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.8",
+    "duration": "161 min",
+    "synopsis": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "genre": ["Western"]
+  },
+  {
+    "title": "Hamilton",
+    "year": "(2020)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.7",
+    "duration": "160 min",
+    "synopsis": "The real life of one of America's foremost founding fathers and first Secretary of the Treasury, Alexander Hamilton. Captured live on Broadway from the Richard Rodgers Theater with the original Broadway cast.",
+    "genre": ["Biography,", "Drama,", "History"]
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": "(2002)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.7",
+    "duration": "179 min",
+    "synopsis": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "genre": ["Action,", "Adventure,", "Drama"]
+  },
+  {
+    "title": "The Matrix",
+    "year": "(1999)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.7",
+    "duration": "136 min",
+    "synopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+    "genre": ["Action,", "Sci-Fi"]
+  },
+  {
+    "title": "Goodfellas",
+    "year": "(1990)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.7",
+    "duration": "146 min",
+    "synopsis": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+    "genre": ["Biography,", "Crime,", "Drama"]
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": "(1980)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.7",
+    "duration": "124 min",
+    "synopsis": "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued by Darth Vader and a bounty hunter named Boba Fett all over the galaxy.",
+    "genre": ["Action,", "Adventure,", "Fantasy"]
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": "(1975)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.7",
+    "duration": "133 min",
+    "synopsis": "A criminal pleads insanity and is admitted to a mental institution, where he rebels against the oppressive nurse and rallies up the scared patients.",
+    "genre": ["Drama"]
+  },
+  {
+    "title": "Gisaengchung",
+    "year": "(2019)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "132 min",
+    "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
+    "genre": ["Comedy,", "Drama,", "Thriller"]
+  },
+  {
+    "title": "Interstellar",
+    "year": "(2014)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "169 min",
+    "synopsis": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+    "genre": ["Adventure,", "Drama,", "Sci-Fi"]
+  },
+  {
+    "title": "Cidade de Deus",
+    "year": "(2002)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "130 min",
+    "synopsis": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin.",
+    "genre": ["Crime,", "Drama"]
+  },
+  {
+    "title": "Sen to Chihiro no kamikakushi",
+    "year": "(2001)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "125 min",
+    "synopsis": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.",
+    "genre": ["Animation,", "Adventure,", "Family"]
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": "(1998)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "169 min",
+    "synopsis": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+    "genre": ["Drama,", "War"]
+  },
+  {
+    "title": "The Green Mile",
+    "year": "(1999)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "189 min",
+    "synopsis": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+    "genre": ["Crime,", "Drama,", "Fantasy"]
+  },
+  {
+    "title": "La vita è bella",
+    "year": "(1997)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "116 min",
+    "synopsis": "When an open-minded Jewish librarian and his son become victims of the Holocaust, he uses a perfect mixture of will, humor, and imagination to protect his son from the dangers around their camp.",
+    "genre": ["Comedy,", "Drama,", "Romance"]
+  },
+  {
+    "title": "Se7en",
+    "year": "(1995)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "127 min",
+    "synopsis": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "genre": ["Crime,", "Drama,", "Mystery"]
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": "(1991)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "118 min",
+    "synopsis": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "genre": ["Crime,", "Drama,", "Thriller"]
+  },
+  {
+    "title": "Star Wars",
+    "year": "(1977)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "121 min",
+    "synopsis": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+    "genre": ["Action,", "Adventure,", "Fantasy"]
+  },
+  {
+    "title": "Seppuku",
+    "year": "(1962)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "133 min",
+    "synopsis": "When a ronin requesting seppuku at a feudal lord's palace is told of the brutal suicide of another ronin who previously visited, he reveals how their pasts are intertwined - and in doing so challenges the clan's integrity.",
+    "genre": ["Action,", "Drama,", "Mystery"]
+  },
+  {
+    "title": "Shichinin no samurai",
+    "year": "(1954)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "207 min",
+    "synopsis": "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.",
+    "genre": ["Action,", "Adventure,", "Drama"]
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "year": "(1946)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.6",
+    "duration": "130 min",
+    "synopsis": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "genre": ["Drama,", "Family,", "Fantasy"]
+  },
+  {
+    "title": "Joker",
+    "year": "(2019)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "122 min",
+    "synopsis": "In Gotham City, mentally troubled comedian Arthur Fleck is disregarded and mistreated by society. He then embarks on a downward spiral of revolution and bloody crime. This path brings him face-to-face with his alter-ego: the Joker.",
+    "genre": ["Crime,", "Drama,", "Thriller"]
+  },
+  {
+    "title": "Whiplash",
+    "year": "(2014)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "106 min",
+    "synopsis": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+    "genre": ["Drama,", "Music"]
+  },
+  {
+    "title": "The Intouchables",
+    "year": "(2011)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "112 min",
+    "synopsis": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver.",
+    "genre": ["Biography,", "Comedy,", "Drama"]
+  },
+  {
+    "title": "The Prestige",
+    "year": "(2006)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "130 min",
+    "synopsis": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+    "genre": ["Drama,", "Mystery,", "Sci-Fi"]
+  },
+  {
+    "title": "The Departed",
+    "year": "(2006)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "151 min",
+    "synopsis": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+    "genre": ["Crime,", "Drama,", "Thriller"]
+  },
+  {
+    "title": "The Pianist",
+    "year": "(2002)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "150 min",
+    "synopsis": "A Polish Jewish musician struggles to survive the destruction of the Warsaw ghetto of World War II.",
+    "genre": ["Biography,", "Drama,", "Music"]
+  },
+  {
+    "title": "Gladiator",
+    "year": "(2000)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "155 min",
+    "synopsis": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+    "genre": ["Action,", "Adventure,", "Drama"]
+  },
+  {
+    "title": "American History X",
+    "year": "(1998)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "119 min",
+    "synopsis": "A former neo-nazi skinhead tries to prevent his younger brother from going down the same wrong path that he did.",
+    "genre": ["Drama"]
+  },
+  {
+    "title": "The Usual Suspects",
+    "year": "(1995)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "106 min",
+    "synopsis": "A sole survivor tells of the twisty events leading up to a horrific gun battle on a boat, which began when five criminals met at a seemingly random police lineup.",
+    "genre": ["Crime,", "Mystery,", "Thriller"]
+  },
+  {
+    "title": "Léon",
+    "year": "(1994)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "110 min",
+    "synopsis": "Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade.",
+    "genre": ["Action,", "Crime,", "Drama"]
+  },
+  {
+    "title": "The Lion King",
+    "year": "(1994)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "88 min",
+    "synopsis": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+    "genre": ["Animation,", "Adventure,", "Drama"]
+  },
+  {
+    "title": "Terminator 2: Judgment Day",
+    "year": "(1991)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "137 min",
+    "synopsis": "A cyborg, identical to the one who failed to kill Sarah Connor, must now protect her teenage son, John Connor, from a more advanced and powerful cyborg.",
+    "genre": ["Action,", "Sci-Fi"]
+  },
+  {
+    "title": "Nuovo Cinema Paradiso",
+    "year": "(1988)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "155 min",
+    "synopsis": "A filmmaker recalls his childhood when falling in love with the pictures at the cinema of his home village and forms a deep friendship with the cinema's projectionist.",
+    "genre": ["Drama"]
+  },
+  {
+    "title": "Hotaru no haka",
+    "year": "(1988)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "89 min",
+    "synopsis": "A young boy and his little sister struggle to survive in Japan during World War II.",
+    "genre": ["Animation,", "Drama,", "War"]
+  },
+  {
+    "title": "Back to the Future",
+    "year": "(1985)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "116 min",
+    "synopsis": "Marty McFly, a 17-year-old high school student, is accidentally sent thirty years into the past in a time-traveling DeLorean invented by his close friend, the eccentric scientist Doc Brown.",
+    "genre": ["Adventure,", "Comedy,", "Sci-Fi"]
+  },
+  {
+    "title": "Anand",
+    "year": "(1971)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "122 min",
+    "synopsis": "The story of a terminally ill man who wishes to live life to the fullest before the inevitable occurs, as told by his best friend.",
+    "genre": ["Drama,", "Musical"]
+  },
+  {
+    "title": "Once Upon a Time in the West",
+    "year": "(1968)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "165 min",
+    "synopsis": "A mysterious stranger with a harmonica joins forces with a notorious desperado to protect a beautiful widow from a ruthless assassin working for the railroad.",
+    "genre": ["Western"]
+  },
+  {
+    "title": "Psycho",
+    "year": "(1960)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "109 min",
+    "synopsis": "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.",
+    "genre": ["Horror,", "Mystery,", "Thriller"]
+  },
+  {
+    "title": "Casablanca",
+    "year": "(1942)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "102 min",
+    "synopsis": "A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco.",
+    "genre": ["Drama,", "Romance,", "War"]
+  },
+  {
+    "title": "Modern Times",
+    "year": "(1936)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "87 min",
+    "synopsis": "The Tramp struggles to live in modern industrial society with the help of a young homeless woman.",
+    "genre": ["Comedy,", "Drama,", "Family"]
+  },
+  {
+    "title": "City Lights",
+    "year": "(1931)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.5",
+    "duration": "87 min",
+    "synopsis": "With the aid of a wealthy erratic tippler, a dewy-eyed tramp who has fallen in love with a sightless flower girl accumulates money to be able to help her medically.",
+    "genre": ["Comedy,", "Drama,", "Romance"]
+  },
+  {
+    "title": "Capharnaüm",
+    "year": "(2018)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "126 min",
+    "synopsis": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect.",
+    "genre": ["Drama"]
+  },
+  {
+    "title": "Ayla: The Daughter of War",
+    "year": "(2017)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "125 min",
+    "synopsis": "In 1950, amid-st the ravages of the Korean War, Sergeant Süleyman stumbles upon a half-frozen little girl, with no parents and no help in sight. Frantic, scared and on the verge of death, ...                See full summary »",
+    "genre": ["Biography,", "Drama,", "History"]
+  },
+  {
+    "title": "Kimi no na wa.",
+    "year": "(2016)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "106 min",
+    "synopsis": "Two strangers find themselves linked in a bizarre way. When a connection forms, will distance be the only thing to keep them apart?",
+    "genre": ["Animation,", "Drama,", "Fantasy"]
+  },
+  {
+    "title": "Dangal",
+    "year": "(2016)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "161 min",
+    "synopsis": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+    "genre": ["Action,", "Biography,", "Drama"]
+  },
+  {
+    "title": "Spider-Man: Into the Spider-Verse",
+    "year": "(2018)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "117 min",
+    "synopsis": "Teen Miles Morales becomes the Spider-Man of his universe, and must join with five spider-powered individuals from other dimensions to stop a threat for all realities.",
+    "genre": ["Animation,", "Action,", "Adventure"]
+  },
+  {
+    "title": "Avengers: Endgame",
+    "year": "(2019)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "181 min",
+    "synopsis": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe.",
+    "genre": ["Action,", "Adventure,", "Drama"]
+  },
+  {
+    "title": "Avengers: Infinity War",
+    "year": "(2018)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "149 min",
+    "synopsis": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+    "genre": ["Action,", "Adventure,", "Sci-Fi"]
+  },
+  {
+    "title": "Coco",
+    "year": "(I) (2017)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "105 min",
+    "synopsis": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+    "genre": ["Animation,", "Adventure,", "Family"]
+  },
+  {
+    "title": "Django Unchained",
+    "year": "(2012)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "165 min",
+    "synopsis": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife from a brutal Mississippi plantation owner.",
+    "genre": ["Drama,", "Western"]
+  },
+  {
+    "title": "The Dark Knight Rises",
+    "year": "(2012)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "164 min",
+    "synopsis": "Eight years after the Joker's reign of anarchy, Batman, with the help of the enigmatic Catwoman, is forced from his exile to save Gotham City from the brutal guerrilla terrorist Bane.",
+    "genre": ["Action,", "Adventure"]
+  },
+  {
+    "title": "3 Idiots",
+    "year": "(2009)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "170 min",
+    "synopsis": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them \"idiots\".",
+    "genre": ["Comedy,", "Drama"]
+  },
+  {
+    "title": "Taare Zameen Par",
+    "year": "(2007)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "165 min",
+    "synopsis": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+    "genre": ["Drama,", "Family"]
+  },
+  {
+    "title": "WALL·E",
+    "year": "(2008)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "98 min",
+    "synopsis": "In the distant future, a small waste-collecting robot inadvertently embarks on a space journey that will ultimately decide the fate of mankind.",
+    "genre": ["Animation,", "Adventure,", "Family"]
+  },
+  {
+    "title": "The Lives of Others",
+    "year": "(2006)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "137 min",
+    "synopsis": "In 1984 East Berlin, an agent of the secret police, conducting surveillance on a writer and his lover, finds himself becoming increasingly absorbed by their lives.",
+    "genre": ["Drama,", "Mystery,", "Thriller"]
+  },
+  {
+    "title": "Oldeuboi",
+    "year": "(2003)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "101 min",
+    "synopsis": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must find his captor in five days.",
+    "genre": ["Action,", "Drama,", "Mystery"]
+  },
+  {
+    "title": "Memento",
+    "year": "(2000)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "113 min",
+    "synopsis": "A man with short-term memory loss attempts to track down his wife's murderer.",
+    "genre": ["Mystery,", "Thriller"]
+  },
+  {
+    "title": "Mononoke-hime",
+    "year": "(1997)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "134 min",
+    "synopsis": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime.",
+    "genre": ["Animation,", "Adventure,", "Fantasy"]
+  },
+  {
+    "title": "Once Upon a Time in America",
+    "year": "(1984)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "229 min",
+    "synopsis": "A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.",
+    "genre": ["Crime,", "Drama"]
+  },
+  {
+    "title": "Raiders of the Lost Ark",
+    "year": "(1981)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "115 min",
+    "synopsis": "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.",
+    "genre": ["Action,", "Adventure"]
+  },
+  {
+    "title": "The Shining",
+    "year": "(1980)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "146 min",
+    "synopsis": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+    "genre": ["Drama,", "Horror"]
+  },
+  {
+    "title": "Apocalypse Now",
+    "year": "(1979)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "147 min",
+    "synopsis": "A U.S. Army officer serving in Vietnam is tasked with assassinating a renegade Special Forces Colonel who sees himself as a god.",
+    "genre": ["Drama,", "Mystery,", "War"]
+  },
+  {
+    "title": "Alien",
+    "year": "(1979)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "117 min",
+    "synopsis": "After a space merchant vessel receives an unknown transmission as a distress call, one of the crew is attacked by a mysterious life form and they soon realize that its life cycle has merely begun.",
+    "genre": ["Horror,", "Sci-Fi"]
+  },
+  {
+    "title": "Tengoku to jigoku",
+    "year": "(1963)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "143 min",
+    "synopsis": "An executive of a shoe company becomes a victim of extortion when his chauffeur's son is kidnapped and held for ransom.",
+    "genre": ["Crime,", "Drama,", "Mystery"]
+  },
+  {
+    "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+    "year": "(1964)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "95 min",
+    "synopsis": "An insane general triggers a path to nuclear holocaust that a War Room full of politicians and generals frantically tries to stop.",
+    "genre": ["Comedy"]
+  },
+  {
+    "title": "Witness for the Prosecution",
+    "year": "(1957)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "116 min",
+    "synopsis": "A veteran British barrister must defend his client in a murder trial that has surprise after surprise.",
+    "genre": ["Crime,", "Drama,", "Mystery"]
+  },
+  {
+    "title": "Paths of Glory",
+    "year": "(1957)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "88 min",
+    "synopsis": "After refusing to attack an enemy position, a general accuses the soldiers of cowardice and their commanding officer must defend them.",
+    "genre": ["Drama,", "War"]
+  },
+  {
+    "title": "Rear Window",
+    "year": "(1954)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "112 min",
+    "synopsis": "A wheelchair-bound photographer spies on his neighbors from his apartment window and becomes convinced one of them has committed murder.",
+    "genre": ["Mystery,", "Thriller"]
+  },
+  {
+    "title": "Sunset Blvd.",
+    "year": "(1950)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "110 min",
+    "synopsis": "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.",
+    "genre": ["Drama,", "Film-Noir"]
+  },
+  {
+    "title": "The Great Dictator",
+    "year": "(1940)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.4",
+    "duration": "125 min",
+    "synopsis": "Dictator Adenoid Hynkel tries to expand his empire while a poor Jewish barber tries to avoid persecution from Hynkel's regime.",
+    "genre": ["Comedy,", "Drama,", "War"]
+  },
+  {
+    "title": "1917",
+    "year": "(2019)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "119 min",
+    "synopsis": "April 6th, 1917. As a regiment assembles to wage war deep in enemy territory, two soldiers are assigned to race against time and deliver a message that will stop 1,600 men from walking straight into a deadly trap.",
+    "genre": ["Drama,", "War"]
+  },
+  {
+    "title": "Uri: The Surgical Strike",
+    "year": "(2019)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "138 min",
+    "synopsis": "Indian army special forces execute a covert operation, avenging the killing of fellow army men at their base by a terrorist group.",
+    "genre": ["Action,", "Drama,", "War"]
+  },
+  {
+    "title": "Andhadhun",
+    "year": "(2018)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "139 min",
+    "synopsis": "A series of mysterious events change the life of a blind pianist, who must now report a crime that he should technically know nothing of.",
+    "genre": ["Crime,", "Thriller"]
+  },
+  {
+    "title": "Drishyam",
+    "year": "(2013)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "160 min",
+    "synopsis": "A man goes to extreme lengths to save his family from punishment after the family commits an accidental crime.",
+    "genre": ["Crime,", "Drama,", "Thriller"]
+  },
+  {
+    "title": "Jagten",
+    "year": "(2012)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "115 min",
+    "synopsis": "A teacher lives a lonely life, all the while struggling over his son's custody. His life slowly gets better as he finds love and receives good news from his son, but his new luck is about to be brutally shattered by an innocent little lie.",
+    "genre": ["Drama"]
+  },
+  {
+    "title": "Jodaeiye Nader az Simin",
+    "year": "(2011)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "123 min",
+    "synopsis": "A married couple are faced with a difficult decision - to improve the life of their child by moving to another country or to stay in Iran and look after a deteriorating parent who has Alzheimer's disease.",
+    "genre": ["Drama,", "Thriller"]
+  },
+  {
+    "title": "Incendies",
+    "year": "(2010)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "131 min",
+    "synopsis": "Twins journey to the Middle East to discover their family history and fulfill their mother's last wishes.",
+    "genre": ["Drama,", "Mystery,", "War"]
+  },
+  {
+    "title": "Yedinci Kogustaki Mucize",
+    "year": "(2019)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "132 min",
+    "synopsis": "A story of love between a mentally-ill father who was wrongly accused of murder and his lovely six years old daughter. The prison would be their home. Based on the 2013 Korean movie 7-beon-bang-ui seon-mul (2013).",
+    "genre": ["Drama"]
+  },
+  {
+    "title": "Babam ve Oglum",
+    "year": "(2005)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "112 min",
+    "synopsis": "The family of a left-wing journalist is torn apart after the military coup of Turkey in 1980.",
+    "genre": ["Drama,", "Family"]
+  },
+  {
+    "title": "Toy Story 3",
+    "year": "(2010)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "103 min",
+    "synopsis": "The toys are mistakenly delivered to a day-care center instead of the attic right before Andy leaves for college, and it's up to Woody to convince the other toys that they weren't abandoned and to return home.",
+    "genre": ["Animation,", "Adventure,", "Comedy"]
+  },
+  {
+    "title": "Inglourious Basterds",
+    "year": "(2009)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "153 min",
+    "synopsis": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+    "genre": ["Adventure,", "Drama,", "War"]
+  },
+  {
+    "title": "Eternal Sunshine of the Spotless Mind",
+    "year": "(2004)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "108 min",
+    "synopsis": "When their relationship turns sour, a couple undergoes a medical procedure to have each other erased from their memories.",
+    "genre": ["Drama,", "Romance,", "Sci-Fi"]
+  },
+  {
+    "title": "Amélie",
+    "year": "(2001)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "122 min",
+    "synopsis": "Amélie is an innocent and naive girl in Paris with her own sense of justice. She decides to help those around her and, along the way, discovers love.",
+    "genre": ["Comedy,", "Romance"]
+  },
+  {
+    "title": "Snatch",
+    "year": "(2000)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "104 min",
+    "synopsis": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+    "genre": ["Comedy,", "Crime"]
+  },
+  {
+    "title": "Requiem for a Dream",
+    "year": "(2000)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "102 min",
+    "synopsis": "The drug-induced utopias of four Coney Island people are shattered when their addictions run deep.",
+    "genre": ["Drama"]
+  },
+  {
+    "title": "American Beauty",
+    "year": "(1999)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "122 min",
+    "synopsis": "A sexually frustrated suburban father has a mid-life crisis after becoming infatuated with his daughter's best friend.",
+    "genre": ["Drama"]
+  },
+  {
+    "title": "Good Will Hunting",
+    "year": "(1997)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "126 min",
+    "synopsis": "Will Hunting, a janitor at M.I.T., has a gift for mathematics, but needs help from a psychologist to find direction in his life.",
+    "genre": ["Drama,", "Romance"]
+  },
+  {
+    "title": "Bacheha-Ye aseman",
+    "year": "(1997)",
+    "image": "https://m.media-amazon.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB466725069_.png",
+    "rating": "8.3",
+    "duration": "89 min",
+    "synopsis": "After a boy loses his sister's pair of shoes, he goes on a series of adventures in order to find them. When he can't, he tries a new way to \"win\" a new pair.",
+    "genre": ["Drama,", "Family,", "Sport"]
+  }
+]
